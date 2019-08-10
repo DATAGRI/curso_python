@@ -1,4 +1,5 @@
 # crear una funcion para aplicar un ciclo repetitivo y funcion recursiva
+
 d = int(input('ingrese divisor:'))
 d2 = int(input('ingrese dividendo:'))
 

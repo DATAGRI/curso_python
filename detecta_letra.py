@@ -1,3 +1,4 @@
+a = 3
 z = input()
 l = len(z)
 y, i = 'e', l
